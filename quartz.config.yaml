@@ -4,10 +4,8 @@ configuration:
   pageTitleSuffix: "lizhenhzcn.com"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: lizhenhzcn.com
+  locale: zh-CN
+  baseUrl: lizhenhzcn.github.io/lizhenhzcn
   ignorePatterns:
     - private
     - templates
