@@ -1,6 +1,9 @@
 ---
 title: 《阳关三叠》唱法的一个补充理解
-
+slug: Notes-on-Yangguan-Sandie
+date: 2026-11-01
+modified: 2026-11-01
+enableToc: false
 ---
 
 - **作者**：李震

@@ -1,3 +1,10 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* 只隐藏首页自动生成的文章标题 */
+:root[data-slug="/"] {
+  .article-title {
+    display: none;
+  }
+}
