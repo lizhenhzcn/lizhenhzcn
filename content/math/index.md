@@ -7,6 +7,3 @@ enableToc: false
 hideList: true
 ---
 
-- [[几何分析]]
-- [[调和分析]]
-
